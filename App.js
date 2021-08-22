@@ -11,13 +11,11 @@ import {
 } from "react-native";
 const products = require("./products.json");
 
-const pro_0 = "./icons/pro_1.png";
-const pro_1 = "./icons/pro_1.png";
-const pro_2 = "./icons/pro_1.png";
+
 
 import left_arrow from "./icons/left-arrow.png";
 import right_arrow from "./icons/right-arrow.png";
-const fs = require("fs");
+
 
 const TopTitle = () => {
   return (
